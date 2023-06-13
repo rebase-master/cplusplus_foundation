@@ -1,0 +1,15 @@
+# ninja log v5
+0	21	1686592401317702956	CMakeFiles/untitled.dir/functions.cpp.o	d48e3eab9849d924
+0	23	1686592401320507268	CMakeFiles/untitled.dir/static_members.cpp.o	91bf8bca04076acc
+0	21	1686592401317655956	CMakeFiles/untitled.dir/oproverloading.cpp.o	6ee6e2d203ae5800
+0	22	1686592401317804580	CMakeFiles/untitled.dir/inline_function.cpp.o	78dd4dd1fa6bb0c8
+205	233	1686592416616597576	untitled	fd8f72b4d1ba1416
+0	22	1686592401318506617	CMakeFiles/untitled.dir/main.cpp.o	ea02df8afe9fff21
+0	22	1686592401318724115	CMakeFiles/untitled.dir/ref_ptr.cpp.o	b094fee8bbd5b92e
+0	23	1686592401320318978	CMakeFiles/untitled.dir/classes.cpp.o	a9450a5417f8b180
+2	205	1686592416586703636	CMakeFiles/untitled.dir/exceptions.cpp.o	99134223601448cf
+1	38	1686636606840667509	CMakeFiles/untitled.dir/exceptions.cpp.o	99134223601448cf
+2	266	1686636607068078544	CMakeFiles/untitled.dir/template_class.cpp.o	87063b4317bb40e1
+266	369	1686636607172069511	untitled	e90fa47e70ca98cc
+1	202	1686636621301025501	CMakeFiles/untitled.dir/template_class.cpp.o	87063b4317bb40e1
+202	230	1686636621330860236	untitled	e90fa47e70ca98cc

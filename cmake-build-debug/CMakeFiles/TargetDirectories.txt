@@ -1,3 +1,0 @@
-/Users/r2/Documents/projects/c++_basics/cmake-build-debug/CMakeFiles/untitled.dir
-/Users/r2/Documents/projects/c++_basics/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/r2/Documents/projects/c++_basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
