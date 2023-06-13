@@ -97,6 +97,12 @@ build CMakeFiles/untitled.dir/exceptions.cpp.o: CXX_COMPILER__untitled_Debug /Us
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir
 
+build CMakeFiles/untitled.dir/template_function.cpp.o: CXX_COMPILER__untitled_Debug /Users/r2/Documents/projects/cplusplus_foundation/template_function.cpp || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles/untitled.dir/template_function.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/untitled.dir
+  OBJECT_FILE_DIR = CMakeFiles/untitled.dir
+
 build CMakeFiles/untitled.dir/template_class.cpp.o: CXX_COMPILER__untitled_Debug /Users/r2/Documents/projects/cplusplus_foundation/template_class.cpp || cmake_object_order_depends_target_untitled
   DEP_FILE = CMakeFiles/untitled.dir/template_class.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
@@ -111,7 +117,7 @@ build CMakeFiles/untitled.dir/template_class.cpp.o: CXX_COMPILER__untitled_Debug
 #############################################
 # Link the executable untitled
 
-build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/functions.cpp.o CMakeFiles/untitled.dir/ref_ptr.cpp.o CMakeFiles/untitled.dir/inline_function.cpp.o CMakeFiles/untitled.dir/classes.cpp.o CMakeFiles/untitled.dir/static_members.cpp.o CMakeFiles/untitled.dir/oproverloading.cpp.o CMakeFiles/untitled.dir/exceptions.cpp.o CMakeFiles/untitled.dir/template_class.cpp.o
+build untitled: CXX_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/functions.cpp.o CMakeFiles/untitled.dir/ref_ptr.cpp.o CMakeFiles/untitled.dir/inline_function.cpp.o CMakeFiles/untitled.dir/classes.cpp.o CMakeFiles/untitled.dir/static_members.cpp.o CMakeFiles/untitled.dir/oproverloading.cpp.o CMakeFiles/untitled.dir/exceptions.cpp.o CMakeFiles/untitled.dir/template_function.cpp.o CMakeFiles/untitled.dir/template_class.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk
   OBJECT_DIR = CMakeFiles/untitled.dir
   POST_BUILD = :
